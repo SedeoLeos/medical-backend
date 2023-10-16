@@ -1,0 +1,1 @@
+{"version":3,"file":"medicament.module.js","sourceRoot":"","sources":["../../../src/api/medicament/medicament.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,6DAAyD;AACzD,mEAA+D;AAMxD,IAAM,gBAAgB,8BAAtB,MAAM,gBAAgB;CAAG,CAAA;2BAAnB,gBAAgB;IAJ5B,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,4CAAoB,CAAC;QACnC,SAAS,EAAE,CAAC,sCAAiB,CAAC;KAC/B,CAAC;GACW,gBAAgB,CAAG"}

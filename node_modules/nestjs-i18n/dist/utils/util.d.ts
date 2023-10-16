@@ -1,0 +1,12 @@
+import { I18nOptionResolver } from '../interfaces/i18n-options.interface';
+import { ValidationArguments, ValidationError } from 'class-validator';
+import { I18nValidationError, I18nValidationException } from '../interfaces/i18n-validation-error.interface';
+import { I18nService, TranslateOptions } from '../services/i18n.service';
+import { MiddlewareConsumer } from '@nestjs/common';
+import { NestMiddlewareConsumer, Path } from '../types';
+export declare function shouldResolve(e: I18nOptionResolver): any;
+export declare function i18nValidationErrorFactory(errors: ValidationError[]): I18nValidationException;
+export declare function i18nValidationMessage<K = Record<string, unknown>>(key: Path<K>, args?: any): (a: ValidationArguments) => string;
+export declare function formatI18nErrors<K = Record<string, unknown>>(errors: I18nValidationError[], i18n: I18nService<K>, options?: TranslateOptions): I18nValidationError[];
+export declare const isNestMiddleware: (consumer: MiddlewareConsumer) => consumer is NestMiddlewareConsumer;
+export declare const usingFastify: (consumer: NestMiddlewareConsumer) => boolean;

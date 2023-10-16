@@ -1,0 +1,1 @@
+{"version":3,"file":"i18n-lang.decorator.js","sourceRoot":"","sources":["../../src/decorators/i18n-lang.decorator.ts"],"names":[],"mappings":";;;AAAA,2CAAsD;AACtD,kDAA8C;AAEjC,QAAA,QAAQ,GAAG,IAAA,6BAAoB,EAAC,CAAC,IAAI,EAAE,OAAO,EAAE,EAAE;IAC7D,MAAM,IAAI,GAAG,0BAAW,CAAC,OAAO,CAAC,OAAO,CAAC,CAAC;IAE1C,OAAO,IAAI,CAAC,IAAI,CAAC;AACnB,CAAC,CAAC,CAAC"}

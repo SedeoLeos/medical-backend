@@ -1,0 +1,1 @@
+{"version":3,"file":"ordonance.module.js","sourceRoot":"","sources":["../../../src/api/ordonance/ordonance.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,2DAAuD;AACvD,iEAA6D;AAMtD,IAAM,eAAe,6BAArB,MAAM,eAAe;CAAG,CAAA;0BAAlB,eAAe;IAJ3B,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,0CAAmB,CAAC;QAClC,SAAS,EAAE,CAAC,oCAAgB,CAAC;KAC9B,CAAC;GACW,eAAe,CAAG"}
